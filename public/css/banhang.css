@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 1366px;
+    height: 625px;
+    margin: auto;
+}
+
+#header{
+    width: 866px;
+    height: 43px;
+    background-color: #5c90c4;
+}
+
+#logout{
+    font-size:25px;
+    position: absolute;
+    top: 2px;
+    left: 700px;
+    color: white;
+}
+
+#home{
+    position: absolute;
+    top: 2px;
+    font-size:25px;
+    color: white;
+}
+
+.ban{
+    width: 866px;
+    height: 582px;
+    float: left;
+}
+
+#cacban{
+    padding-left: 30px;
+    width: 900px;
+}
+
+#display-ban{
+    font-size: 20px;
+    display:inline;
+    text-align: center;
+    padding: 10px 25px 10px 25px;
+    margin: 5px;
+    font-size: 30px;
+}
+
+#thongtin-ban{
+    width: 500px;
+    height: 625px;
+    float: right;
+    background-color: #e5e5e5;
+}
+
+#khachhang {
+    font-size: 50px;
+}
